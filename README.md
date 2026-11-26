@@ -80,7 +80,7 @@ KPIs, revenue by territory and business type, customer segments, and active vs i
 
 - **SQL workings:** [Territory_Performance.sql](1_sql/Territory_Performance.sql)
 - **Dashboard:** [Sales_Dashboard.pdf](2_powerbi/Sales_Dashboard.pdf)
-- **Presentation:** [Territory_Performance.pdf](3_presentation/Territory_Performance.pdf)
+- **Presentation:** [Territory_Performance.pdf](3_presentation/Territory_Performance%20.pdf)
 
 ## What I'd improve next
 
